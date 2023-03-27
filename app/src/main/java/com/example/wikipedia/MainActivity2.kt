@@ -11,6 +11,7 @@ import com.example.wikipedia.data.PostItems
 import com.example.wikipedia.databinding.ActivityMain2Binding
 import com.example.wikipedia.fragments.SEND_DATA_TO_SECOND_ACTIVITY
 
+@Suppress("DEPRECATION")
 class MainActivity2 : AppCompatActivity() {
     lateinit var binding: ActivityMain2Binding
 
